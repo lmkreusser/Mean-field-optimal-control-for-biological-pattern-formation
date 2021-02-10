@@ -1,0 +1,18 @@
+#! /bin/bash
+
+#python postprocessing.py 1
+python postprocessing.py 2
+#python postprocessing.py 3
+#python postprocessing.py 4
+#python postprocessing.py 5
+#python postprocessing.py 6
+#python postprocessing.py 7
+#python postprocessing.py 8
+#python postprocessing.py 9
+#python postprocessing.py 10
+#python postprocessing.py 11
+python postprocessing.py 12
+#python postprocessing.py 13
+#python postprocessing.py 14
+#python postprocessing.py 15
+python postprocessing.py 16
